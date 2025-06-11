@@ -40,7 +40,7 @@ During the Exploratory Data Analysis phase, several critical trends and patterns
     *This chart illustrates how suicide rates vary across different generational cohorts.*
 
 * **Compare Suicide Rate Between Both Genders:**
-    ![Compare suicide rate between both genders](visualizations/Compare_suicide_rate_between_both_genders.png)
+    ![Compare suicide rate between both genders](visualizations/Compare_suicide _rate_between_both_genders.png)
     *This visualization compares suicide rates between male and female populations, highlighting gender-specific patterns.*
 
 ### Temporal and Quantitative Trends
