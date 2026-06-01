@@ -79,7 +79,7 @@ The project deployed several machine learning models to predict suicide numbers,
 * **Python**: Core programming language.
 * **Pandas**: For data manipulation and analysis.
 * **NumPy**: For numerical operations.
-* **Scikit-learn (sklearn)**: For implementing machine learning algorithms (Linear Regression, Decision Tree Regression, Random Forest Regression, K-Means Clustering, Logistic Regression - *you can add specific models if you used them beyond the ones in the visuals*).
+* **Scikit-learn (sklearn)**: For implementing machine learning algorithms (Linear Regression, Decision Tree Regression, Random Forest Regression, K-Means Clustering, Logistic Regression.
 * **Matplotlib / Seaborn**: For creating comprehensive data visualizations.
 * **Jupyter Notebook**: For interactive analysis and code execution.
 
